@@ -7,4 +7,7 @@ q=float (p) #p but the type should be float
 t=type (q)
 print (t)
 
+
+
 # fixing issue
+# another issue
